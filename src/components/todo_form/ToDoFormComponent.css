@@ -1,0 +1,45 @@
+.todo-list {
+  text-align: center;
+}
+
+.tag-list {
+  margin-bottom: 50px;
+}
+
+.task-input,
+.date-input,
+.tag-input {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.todo-button {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-left: 10px;
+}
+
+.dropdown {
+  display: inline-flex;
+  margin-left: 10px;
+}
+
+.todo-button,
+.tag-button {
+  border-radius: 10px;
+  background-color: #2589f5;
+  color: white;
+}
+
+.tag-button {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

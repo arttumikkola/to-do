@@ -1,0 +1,22 @@
+.nav {
+  text-align: center;
+  margin-bottom: 50px !important;
+}
+
+.nav-item1,
+.nav-item2,
+.nav-item3 {
+  margin: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 15px;
+  background-color: gray;
+}
+
+.nav-item1:hover,
+.nav-item2:hover,
+.nav-item3:hover {
+  background-color: lightgray;
+}
