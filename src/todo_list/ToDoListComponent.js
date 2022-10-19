@@ -74,10 +74,10 @@ function ToDoListComponent(props) {
         tags={tags}
       />
       <button className="sortAsc" onClick={sortTodos}>
-        Sort By Ascending
+        Sort By Descending
       </button>
       <button className="sortDesc" onClick={sortTodos2}>
-        Sort By Descending
+        Sort By Ascending
       </button>
       <h2 className="tasks-text">Tasks:</h2>
       <ToDo
